@@ -200,15 +200,6 @@ The investigation also demonstrated an important DFIR principle: the existence o
 - Evidence-Based Investigation
 - MITRE ATT&CK Mapping
 
-## Repository Structure
-
-    windows-dfir-lab52-backup-destruction-investigation/
-    │
-    ├── README.md
-    ├── investigation-notes.md
-    ├── troubleshooting-notes.md
-    └── timeline.md
-
 ## Disclaimer
 
 This investigation was performed in a controlled environment using simulated backup-destruction activity. No real organizational backup data or confidential information was used, and real recovery infrastructure was not intentionally destroyed.
